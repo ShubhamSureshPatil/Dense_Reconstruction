@@ -22,7 +22,7 @@ interactive-markers==1.11.4
 laser-geometry==1.6.4
 message-filters==1.12.14
 numpy==1.17.3
-opencv-python==3.4.2.16
+opencv-python==4.2.0.32
 pluginlib==1.11.3
 python-qt-binding==0.3.4
 qt-dotgraph==0.3.11
