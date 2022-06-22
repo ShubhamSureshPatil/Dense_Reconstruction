@@ -21,7 +21,7 @@ image-geometry==1.12.8
 interactive-markers==1.11.4
 laser-geometry==1.6.4
 message-filters==1.12.14
-numpy==1.17.3
+numpy==1.22.0
 opencv-python==3.4.2.16
 pluginlib==1.11.3
 python-qt-binding==0.3.4
